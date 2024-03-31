@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    padding:  8px;
+    background-color: rgba(224, 164, 183, 0.799);
+    color:  black;
+    font-family: 'Courier New';
+    font-size: large;
+
+}
+
+div{
+    padding: 50px;
+}
